@@ -14,12 +14,9 @@
 </picture>
 </a>
 
-#### About
-_Minimal craftsman_. I do very little. The little I do, I strive to do very well. _Global citizen_. Travel all around, but mostly spend time in Canada or India. _Netizen_. Online since 2003. Though, prefer to be offline these days. _Outspoken_. Yet I’m mindful of the affect I have on others.
-
 #### Connect
 
-Because of the nature of my work, I get to interact with a lot of strangers. In the past 5 years alone, I’ve talked to people from __6 continents__, and __over 90 countries__. Easiest way to reach me is via [email](mailto:hey@kimchiii.space). It doesn’t matter who you are, or your reason to contact me. Just do it. I __guarantee__ to get back to you.
+Because of the nature of my work, I get to interact with a lot of people. In the past 5 years alone, I’ve talked to people from __6 continents__, and __over 90 countries__. Easiest way to reach me is via [email](mailto:hey@kimchiii.space). It doesn’t matter who you are, or your reason to contact me. Just do it. I __guarantee__ to get back to you.
 
 #### Writing
 
@@ -28,3 +25,9 @@ I enjoy writing, and spend at least an hour daily writing. Here’s some worth r
 - [Architecture from Code with Klotho](https://kimchiii.space/writing/meet-klotho)
 - [Securing your Next.js site with security headers](https://kimchiii.space/writing/security-headers)
 - [Mindful](https://kimchiii.space/writing/mindful)
+
+#### Raycast extensions
+
+Use Raycast? See below 👇🏽
+
+<a title="Install anilist-airing-schedule Raycast Extension" href="https://www.raycast.com/yeskunall/anilist-airing-schedule"><img src="https://www.raycast.com/yeskunall/anilist-airing-schedule/install_button@2x.png" style="height: 64px;" alt="" height="64"></a>
