@@ -9,25 +9,40 @@
 <!-- https://piped.video/watch?v=L7hVbB6L6bs  -->
 
 <a href="https://kimchiii.space">
-<picture>
-  <img src="https://user-images.githubusercontent.com/14703164/218246425-8a431fa7-3977-489b-8929-e35d358da407.svg" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset=".github/assets/dark.png" />
+    <img src=".github/assets/dark.png" />
+  </picture>
 </a>
 
-#### Connect
+#### My current stack
 
-Because of the nature of my work, I get to interact with a lot of people. In the past 5 years alone, I’ve talked to people from __6 continents__, and __over 90 countries__. Easiest way to reach me is via [email](mailto:hey@kimchiii.space). It doesn’t matter who you are, or your reason to contact me. Just do it. I __guarantee__ to get back to you.
+[![My preferred stack: some icons missing](https://skillicons.dev/icons?i=vercel,nextjs,tailwind,nodejs,deno,aws,cloudflare,workers,docker,kubernetes,prisma,postgres,sqlite,redis,figma&theme=light)](https://skillicons.dev)
+
+###### _I’ll try anything that looks cool, though!_
+
+##### Not mentioned here, but I also __love__: _Fly.io_, _Northflank_, _PlanetScale_, _Pulumi_, _Railway_, _Qovery_
 
 #### Writing
-
-I enjoy writing, and spend at least an hour daily writing. Here’s some worth reading:
 
 - [Architecture from Code with Klotho](https://kimchiii.space/writing/meet-klotho)
 - [Securing your Next.js site with security headers](https://kimchiii.space/writing/security-headers)
 - [Mindful](https://kimchiii.space/writing/mindful)
 
-#### Raycast extensions
+#### Connect
 
-Use Raycast? See below 👇🏽
+<table>
+  <tr>
+    <td><a href="mailto:hey@kimchiii.space">✉️ <b>mailto:</b></a></td>
+    <td><a href="https://bento.me/yeskunall">🍱 <b>/yeskunall</b></a></td>
+    <td><a href="https://twitter.com/yeskunall">🐥 <b>@yeskunall</b></a></td>
+    <td><a href="https://kimchiii.space/cv"><b>⋯ more</b></a></td>
+  </tr>
+</table>
+
+##### Extras
+
+###### Raycast extensions _(use Raycast? 👇🏽)_
 
 <a title="Install anilist-airing-schedule Raycast Extension" href="https://www.raycast.com/yeskunall/anilist-airing-schedule"><img src="https://www.raycast.com/yeskunall/anilist-airing-schedule/install_button@2x.png" style="height: 64px;" alt="" height="64"></a>
