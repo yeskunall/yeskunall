@@ -16,33 +16,19 @@
   </picture>
 </a>
 
-#### My current stack
+<!-- #### Connect -->
 
-[![My preferred stack: some icons missing](https://skillicons.dev/icons?i=vercel,nextjs,tailwind,nodejs,deno,aws,cloudflare,workers,docker,kubernetes,prisma,postgres,sqlite,redis,figma&theme=light)](https://skillicons.dev)
-
-###### _I’ll try anything that looks cool, though!_
-
-##### Not mentioned here, but I also __love__: _Fly.io_, _Northflank_, _PlanetScale_, _Pulumi_, _Railway_, _Qovery_
-
-#### Writing
-
-- [Architecture from Code with Klotho](https://kimchiii.space/writing/meet-klotho)
-- [Securing your Next.js site with security headers](https://kimchiii.space/writing/security-headers)
-- [Mindful](https://kimchiii.space/writing/mindful)
-
-#### Connect
-
-<table>
+<!-- <table>
   <tr>
     <td><a href="mailto:hey@kimchiii.space">✉️ <b>mailto:</b></a></td>
     <td><a href="https://bento.me/yeskunall">🍱 <b>/yeskunall</b></a></td>
     <td><a href="https://twitter.com/yeskunall">🐥 <b>@yeskunall</b></a></td>
     <td><a href="https://kimchiii.space/cv"><b>⋯ more</b></a></td>
   </tr>
-</table>
+</table> -->
 
-##### Extras
+<!-- ##### Extras -->
 
-###### Raycast extensions _(use Raycast? 👇🏽)_
+###### Use Raycast?
 
 <a title="Install anilist-airing-schedule Raycast Extension" href="https://www.raycast.com/yeskunall/anilist-airing-schedule"><img src="https://www.raycast.com/yeskunall/anilist-airing-schedule/install_button@2x.png" style="height: 64px;" alt="" height="64"></a>
