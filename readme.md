@@ -16,19 +16,13 @@
   </picture>
 </a>
 
-<!-- #### Connect -->
-
-<!-- <table>
-  <tr>
-    <td><a href="mailto:hey@kimchiii.space">✉️ <b>mailto:</b></a></td>
-    <td><a href="https://bento.me/yeskunall">🍱 <b>/yeskunall</b></a></td>
-    <td><a href="https://twitter.com/yeskunall">🐥 <b>@yeskunall</b></a></td>
-    <td><a href="https://kimchiii.space/cv"><b>⋯ more</b></a></td>
-  </tr>
-</table> -->
-
 <!-- ##### Extras -->
 
 ###### Use Raycast?
 
 <a title="Install anilist-airing-schedule Raycast Extension" href="https://www.raycast.com/yeskunall/anilist-airing-schedule"><img src="https://www.raycast.com/yeskunall/anilist-airing-schedule/install_button@2x.png" style="height: 64px;" alt="" height="64"></a>
+
+
+###### Use VS Code (Codium)?
+
+<a href="https://marketplace.visualstudio.com/items?itemName=yeskunall.deep-rainforest"><strong>Install Deep Rainforest theme →</strong></a>
