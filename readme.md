@@ -20,9 +20,9 @@
 
 ###### Use Raycast?
 
-<a title="Install anilist-airing-schedule Raycast Extension" href="https://www.raycast.com/yeskunall/anilist-airing-schedule"><img src="https://www.raycast.com/yeskunall/anilist-airing-schedule/install_button@2x.png" style="height: 64px;" alt="" height="64"></a>
+<a title="Install anilist-airing-schedule Raycast Extension" href="https://www.raycast.com/yeskunall/anilist-airing-schedule"><img alt="Install anilist-airing-schedule Raycast Extension" src="https://www.raycast.com/yeskunall/anilist-airing-schedule/install_button@2x.png" style="height: 64px;" height="64"></a>
 
 
-###### Use VS Code (Codium)?
+###### Use VS Code?
 
-<a href="https://marketplace.visualstudio.com/items?itemName=yeskunall.deep-rainforest"><strong>Install Deep Rainforest theme →</strong></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=yeskunall.deep-rainforest" title="Install Deep Rainforest theme from the Visual Studio Marketplace"><img alt="Install Deep Rainforest theme from the Visual Studio Marketplace" src="./.github/assets/install-deep-rainforest.png" style="height: 60px;" height="60"></a>
