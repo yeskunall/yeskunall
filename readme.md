@@ -1,6 +1,6 @@
-![Pixel art by untamedmonster](./.github/assets/e4dd822f88145a4.gif)
+![Pixel art by untamedmonster](./.github/assets/warp-drive-player-z.png)
 <sub>
-  <sup>Pixel art by [@untamedmonster](https://www.pixilart.com/untamedmonster)</sup>
+  <sup>Pixel art by [@player-z](https://www.pixilart.com/player-z)</sup>
 </sub>
 
 <samp>
