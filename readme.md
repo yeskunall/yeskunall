@@ -4,10 +4,7 @@
 <br />
 <samp>■</samp>
 <br />
+<br />
 <sub>
   <sup>はじめまして (。-ω-)ﾉ</sup>
-</sub> | <sub>
-  <sup><a href="https://literal.club/yeskunall">Book shelf</a></sup>
-</sub> | <sub>
-  <sup><a href="https://read.cv/yeskunall">CV</a></sup>
 </sub>
