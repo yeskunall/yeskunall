@@ -1,5 +1,5 @@
 <samp>
-  Digital craftsman, building modest software & <a href="https://kimchiii.space">websites</a> on the internet
+  Digital craftsman, building modest products on the internet
 </samp>
 <br />
-<samp>■</samp>
+<samp>☲</samp>
