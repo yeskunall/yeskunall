@@ -1,0 +1,170 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/yeskunall/yeskunall/commit/a5f4c68ea006740aea203371973192f4607cb894\"><strong>a</strong>5f4c68ea006740aea203371973192f4607cb894</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/yeskunall/yeskunall/commit/ab691493c51bc274d81380c675c004c1c1124463\"><strong>ab</strong>691493c51bc274d81380c675c004c1c1124463</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "bad-words",
+    "tier": 0,
+    "desc": "I used a word \"fuck\" in my commit message.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/21kb/linkify-gh-usernames/commit/fb7d873bd446fb7367f29b927bafb668ca27c13b\">fb7d873</a>: v2.0.0 (#1)\n\n* chore: meta tweaks\r\n\r\n* feat: prepare v2\r\n\r\n* chore: meta tweaks\r\n\r\n* fix: matrices always fuck me up\r\n\r\n* fix: use `npm` instead\r\n\r\n* fix: drop support for Node 16",
+    "image": "https://my-badges.github.io/my-badges/bad-words.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/21kb/observatory/commit/df5e8b7bfde02115a82c848a0299c450c529fb25\">df5e8b7</a>: chore: push migrations",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/1430861bfc1e2d467157376f878581e6e689b77b\">1430861</a>\n- <a href=\"https://github.com/yeskunall/www/commit/23ab8e43bd4b39b709363b49207d43a5ccb25d96\">23ab8e4</a>\n- <a href=\"https://github.com/yeskunall/www/commit/43ad89fc61f9f26c0398f0bb96c00b5e05a90c93\">43ad89f</a>\n- <a href=\"https://github.com/yeskunall/www/commit/22f71883143451fc611817d794dc5e7c2afc4ee9\">22f7188</a>\n- <a href=\"https://github.com/yeskunall/www/commit/a51d82448327c4af26434b6602d59cb6035e5cf3\">a51d824</a>\n- <a href=\"https://github.com/yeskunall/www/commit/d06aae433cb9ecf37b30d49e2c0657fb4a0cc8b2\">d06aae4</a>",
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/21f8b29a0f6d3f60016b525c844853d3294d81c3\">21f8b29</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/e89bdaff34c120de1663e7b5a029ea878c83757a\">e89bdaf</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/5c0fbd851faf613cc719c222806236eb0efb3cdb\">5c0fbd8</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/7df9aa2c6a29b4a0bf5dfdb95de131824661f50e\">7df9aa2</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/b13e18b033ffea56a5d282e3b923451bd57ca44d\">b13e18b</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/5ba93a284697c40e08c99182c6e78712f0495f87\">5ba93a2</a>",
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/634c9e36b89e3dda92b3b13d6772ffe2e8870ba0\">634c9e3</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/28e35dc797a2e1e03e6999cf8ba4e5884e55ade1\">28e35dc</a>\n- <a href=\"https://github.com/yeskunall/www/commit/9bd408003e70549234368c697391735c3b179c4c\">9bd4080</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 208 times)\n2. chore: (used 166 times)\n3. feat: (used 150 times)\n4. add (used 115 times)\n5. to (used 107 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/www/commit/2dadf61727d5ee993fd8a0fb1f7296d03fdb3eba\">2dadf61</a>: fix(ci): run only necessary scripts every step\n- <a href=\"https://github.com/yeskunall/www/commit/e19c16187a5f648ae0b98f73b63c3b47dab34472\">e19c161</a>: fix(content): fix `markdownlint` errors",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/www/commit/f48afec73b884344c1f83f5883e3272f43926387\">f48afec</a>: fix: use `webAnalytics` instead of `analytics` (deprecated)\n- <a href=\"https://github.com/yeskunall/www/commit/2f631adbad9fb9085ec4855b7f1d8bfea0ddb6f7\">2f631ad</a>: fix: headers not being applied in Vercel deployment (#13)\n- <a href=\"https://github.com/yeskunall/www/commit/f8440ec2a34da8ae79ba8d490b098ed373afd901\">f8440ec</a>: fix: headers not being applied in Vercel deployment\n\nCloses: #7",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "fix-5",
+    "tier": 4,
+    "desc": "I did 5 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/www/commit/77d0418d3ae914795ed6ce26433b98be21c25a76\">77d0418</a>: fix: colors on now page\n- <a href=\"https://github.com/yeskunall/www/commit/d21df3e39459997320973537bc80028cd6f1d6d4\">d21df3e</a>: fix: undef styles\n- <a href=\"https://github.com/yeskunall/www/commit/38f717582cfe7dffac75bfa00c3909d8116c4272\">38f7175</a>: fix: make text more legible\n- <a href=\"https://github.com/yeskunall/www/commit/75e727b3886df89d668fb255166a2cb150c009ce\">75e727b</a>: fix: update copy\n- <a href=\"https://github.com/yeskunall/www/commit/0735152a75cc65205d03daf157457e73564fe1dd\">0735152</a>: fix: temporarily fix colors for blog posts",
+    "image": "https://my-badges.github.io/my-badges/fix-5.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/915eccaa276b4bf624ea00de35695397f648c7dd\">915ecca</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "old-issue-1",
+    "tier": 1,
+    "desc": "I closed an issue that was open for a year",
+    "body": "Issues:\n\n- <a href=\"https://github.com/riconaranjo/How-to-disable-aero-shake/issues/1\">#1</a>: A before and after GIF would be dope!\n- <a href=\"https://github.com/talos-org/client/issues/5\">#5</a>: 🎯Front-end UI\n- <a href=\"https://github.com/talos-org/client/issues/13\">#13</a>: 🎯 Wizard\n- <a href=\"https://github.com/talos-org/client/issues/15\">#15</a>: 🎯 Dashboard\n- <a href=\"https://github.com/talos-org/client/issues/35\">#35</a>: Outline how to resolve lockfile merge conflicts\n- <a href=\"https://github.com/planetscale/cli/issues/429\">#429</a>: CLI should respect user‘s XDG base directory settings\n- <a href=\"https://github.com/yeskunall/dotfiles/issues/15\">#15</a>: Switch to Raycast\n- <a href=\"https://github.com/railwayapp/cli/issues/206\">#206</a>: CLI should respect user‘s XDG base directory settings\n- <a href=\"https://github.com/pulumi/pulumi/issues/11751\">#11751</a>: Allow installation of Node.js packages using PNPM",
+    "image": "https://my-badges.github.io/my-badges/old-issue-1.png"
+  },
+  {
+    "id": "old-issue-2",
+    "tier": 2,
+    "desc": "I closed an issue that was open for 2 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/electron-react-boilerplate/electron-react-boilerplate/issues/1421\">#1421</a>: Better way to package and distribute boilerplate",
+    "image": "https://my-badges.github.io/my-badges/old-issue-2.png"
+  },
+  {
+    "id": "old-issue-3",
+    "tier": 3,
+    "desc": "I closed an issue that was open for 3 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/yeskunall/dotfiles/issues/5\">#5</a>: Manage dotfiles using GNU Stow\n- <a href=\"https://github.com/albinekb/open-pip-cli/issues/13\">#13</a>: Close PIP player after video ends",
+    "image": "https://my-badges.github.io/my-badges/old-issue-3.png"
+  },
+  {
+    "id": "old-issue-4",
+    "tier": 4,
+    "desc": "I closed an issue that was open for 4 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/microsoft/vscode/issues/29634\">#29634</a>: Allow users to choose the character to display invisibles",
+    "image": "https://my-badges.github.io/my-badges/old-issue-4.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/sindresorhus/node-env-webpack-plugin/issues/1\">#1</a>: Support for additional environments\n- <a href=\"https://github.com/enquirer/enquirer/issues/32\">#32</a>: How to use the given prompts?\n- <a href=\"https://github.com/florisboard/florisboard/issues/1022\">#1022</a>: Clear URLs when copying/sharing a link\n- <a href=\"https://github.com/weiran-zsd/dts-cli/issues/181\">#181</a>: Auto-installation step should respect current package manager\n- <a href=\"https://github.com/supabase/supabase/issues/18269\">#18269</a>: `cmdk` key bindings clash with Supabase Studio’s built-in GraphiQL IDE\n\n And many more...",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "pr-collaboration-5",
+    "tier": 1,
+    "desc": "I have participated in pull requests with 5 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/ismail-syed/SYSC3303_project/pull/4\">#4</a>: v1",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
+  },
+  {
+    "id": "the-ultimate-question",
+    "tier": 0,
+    "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
+    "body": "- <a href=\"https://github.com/yeskunall/www/issues/42\">#42</a>",
+    "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/www/commit/ee042522bdc8b4ef3fe95dcbfde6ac439de6c229\">ee04252</a>\n- <a href=\"https://github.com/yeskunall/www/commit/cacc2bacb282fe1ac83bb7fa056f3c412987f5fa\">cacc2ba</a>\n- <a href=\"https://github.com/yeskunall/www/commit/add9b14bbac6a344b1dfe9f3b990da09310a7fd5\">add9b14</a>\n- <a href=\"https://github.com/yeskunall/www/commit/68cae3b885d993a54d8b1c207b67f8131278d477\">68cae3b</a>\n- <a href=\"https://github.com/yeskunall/www/commit/af73532040e3f1d0000713e780ddcdf437fea047\">af73532</a>\n- <a href=\"https://github.com/yeskunall/www/commit/b785d1aa53d97e115c29e8e117c47557887ac30f\">b785d1a</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/yeskunall/commit/e4686a911822220ff5f26a033ff52868af65616b\">e4686a9</a>\n- <a href=\"https://github.com/yeskunall/www/commit/697dab168b292fc147791fdb452f4467751b90d0\">697dab1</a>\n- <a href=\"https://github.com/yeskunall/www/commit/e2dd6ffd1b838399c581b5ef6a7dfb018c581ec2\">e2dd6ff</a>\n- <a href=\"https://github.com/yeskunall/www/commit/cd0fbce0e5df5dfa0d6af242f91ea09d45b06e22\">cd0fbce</a>\n- <a href=\"https://github.com/yeskunall/www/commit/29ecb41ba4875b67dc736185365731026f24e8b8\">29ecb41</a>\n- <a href=\"https://github.com/yeskunall/www/commit/c65d5509c121b080f92ff0bf872c6bc8f3cce0fb\">c65d550</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/remy/commit/b0ef16d69797a3e7991ef53004704d80d26c4a24\">b0ef16d</a>\n- <a href=\"https://github.com/yeskunall/remy/commit/5f4eb0ddef012bd0db923e16e979c0a4128557fb\">5f4eb0d</a>\n- <a href=\"https://github.com/yeskunall/remy/commit/c31655bbb7dc9a4ad104fb41189378d66992fea2\">c31655b</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/b31585585bfa422e9df63fc26ef7f1b05d1ab112\">b315855</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/0b910dfc04486c993306b17953b68e2f6a6b658b\">0b910df</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/ad7bb0dca47439577f0f78b45248aa58156ddd3d\">ad7bb0d</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]
