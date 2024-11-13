@@ -13,3 +13,6 @@
 <samp>
   👨🏽‍💻 <a href="https://kunall.dev/?utm_source=website&utm_medium=github-profile-readme&utm_campaign=hits">kunall.dev</a>
 </samp>
+
+<!-- my-badges start -->
+<!-- my-badges end -->
