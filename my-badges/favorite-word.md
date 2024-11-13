@@ -6,8 +6,8 @@ My favorite commit message words are:
 
 1. update (used 208 times)
 2. chore: (used 166 times)
-3. feat: (used 150 times)
-4. add (used 115 times)
+3. feat: (used 153 times)
+4. add (used 116 times)
 5. to (used 107 times)
 
 
