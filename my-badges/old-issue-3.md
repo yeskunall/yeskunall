@@ -4,7 +4,6 @@
 
 Issues:
 
-- <a href="https://github.com/yeskunall/dotfiles/issues/5">#5</a>: Manage dotfiles using GNU Stow
 - <a href="https://github.com/albinekb/open-pip-cli/issues/13">#13</a>: Close PIP player after video ends
 
 

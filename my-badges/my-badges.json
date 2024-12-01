@@ -59,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 208 times)\n2. chore: (used 167 times)\n3. feat: (used 153 times)\n4. add (used 116 times)\n5. to (used 107 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 210 times)\n2. chore: (used 171 times)\n3. feat: (used 153 times)\n4. add (used 116 times)\n5. to (used 108 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -101,7 +101,7 @@
     "id": "old-issue-1",
     "tier": 1,
     "desc": "I closed an issue that was open for a year",
-    "body": "Issues:\n\n- <a href=\"https://github.com/riconaranjo/How-to-disable-aero-shake/issues/1\">#1</a>: A before and after GIF would be dope!\n- <a href=\"https://github.com/talos-org/client/issues/5\">#5</a>: 🎯Front-end UI\n- <a href=\"https://github.com/talos-org/client/issues/13\">#13</a>: 🎯 Wizard\n- <a href=\"https://github.com/talos-org/client/issues/15\">#15</a>: 🎯 Dashboard\n- <a href=\"https://github.com/talos-org/client/issues/35\">#35</a>: Outline how to resolve lockfile merge conflicts\n- <a href=\"https://github.com/planetscale/cli/issues/429\">#429</a>: CLI should respect user‘s XDG base directory settings\n- <a href=\"https://github.com/yeskunall/dotfiles/issues/15\">#15</a>: Switch to Raycast\n- <a href=\"https://github.com/railwayapp/cli/issues/206\">#206</a>: CLI should respect user‘s XDG base directory settings\n- <a href=\"https://github.com/pulumi/pulumi/issues/11751\">#11751</a>: Allow installation of Node.js packages using PNPM",
+    "body": "Issues:\n\n- <a href=\"https://github.com/talos-org/client/issues/15\">#15</a>: 🎯 Dashboard\n- <a href=\"https://github.com/talos-org/client/issues/35\">#35</a>: Outline how to resolve lockfile merge conflicts",
     "image": "https://my-badges.github.io/my-badges/old-issue-1.png"
   },
   {
@@ -115,7 +115,7 @@
     "id": "old-issue-3",
     "tier": 3,
     "desc": "I closed an issue that was open for 3 years",
-    "body": "Issues:\n\n- <a href=\"https://github.com/yeskunall/dotfiles/issues/5\">#5</a>: Manage dotfiles using GNU Stow\n- <a href=\"https://github.com/albinekb/open-pip-cli/issues/13\">#13</a>: Close PIP player after video ends",
+    "body": "Issues:\n\n- <a href=\"https://github.com/albinekb/open-pip-cli/issues/13\">#13</a>: Close PIP player after video ends",
     "image": "https://my-badges.github.io/my-badges/old-issue-3.png"
   },
   {
@@ -157,7 +157,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/yeskunall/commit/e4686a911822220ff5f26a033ff52868af65616b\">e4686a9</a>\n- <a href=\"https://github.com/yeskunall/www/commit/697dab168b292fc147791fdb452f4467751b90d0\">697dab1</a>\n- <a href=\"https://github.com/yeskunall/www/commit/e2dd6ffd1b838399c581b5ef6a7dfb018c581ec2\">e2dd6ff</a>\n- <a href=\"https://github.com/yeskunall/www/commit/cd0fbce0e5df5dfa0d6af242f91ea09d45b06e22\">cd0fbce</a>\n- <a href=\"https://github.com/yeskunall/www/commit/29ecb41ba4875b67dc736185365731026f24e8b8\">29ecb41</a>\n- <a href=\"https://github.com/yeskunall/www/commit/c65d5509c121b080f92ff0bf872c6bc8f3cce0fb\">c65d550</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/8a70a7daa97943dbd7376c4f8f399b8f1a14d75a\">8a70a7d</a>\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/0923422135ab7adb9b12c5cfc7aea6df74b1f1a7\">0923422</a>\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/02efc754574b895e4efae74b2bf70956885b0361\">02efc75</a>\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/c53ac5d3aa428a398aae8cb6f269042aa757a6ab\">c53ac5d</a>\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/a883d4b810261b1670b7d6c7005032a6f2b6730e\">a883d4b</a>\n- <a href=\"https://github.com/yeskunall/yeskunall/commit/e4686a911822220ff5f26a033ff52868af65616b\">e4686a9</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -166,5 +166,12 @@
     "desc": "I commit in the evening.",
     "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/yeskunall/commit/98645a4c6c29b32d3cacbbc3113d70a30953fa82\">98645a4</a>\n- <a href=\"https://github.com/yeskunall/remy/commit/b0ef16d69797a3e7991ef53004704d80d26c4a24\">b0ef16d</a>\n- <a href=\"https://github.com/yeskunall/remy/commit/5f4eb0ddef012bd0db923e16e979c0a4128557fb\">5f4eb0d</a>\n- <a href=\"https://github.com/yeskunall/remy/commit/c31655bbb7dc9a4ad104fb41189378d66992fea2\">c31655b</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/b31585585bfa422e9df63fc26ef7f1b05d1ab112\">b315855</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/0b910dfc04486c993306b17953b68e2f6a6b658b\">0b910df</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "thumbs-up",
+    "tier": 0,
+    "desc": "I have received a lot of thumbs up 👍 reactions!",
+    "body": "- [29 thumbs ups](https://github.com/pulumi/pulumi/issues/11751)\n- [15 thumbs ups](https://github.com/vercel/next.js/issues/35623#issuecomment-1079821404)\n- [8 thumbs ups](https://github.com/intel/intel-one-mono/issues/26)\n- [6 thumbs ups](https://github.com/microsoft/vscode/issues/29634)\n- [5 thumbs ups](https://github.com/electron-react-boilerplate/electron-react-boilerplate/issues/1421)\n- [3 thumbs ups](https://github.com/carbon-app/carbon/issues/66)\n- [3 thumbs ups](https://github.com/planetscale/cli/issues/429)\n- [3 thumbs ups](https://github.com/carbon-app/carbon/pull/88#issuecomment-333547323)\n- [3 thumbs ups](https://github.com/umami-software/umami/discussions/2826#discussioncomment-10815810)\n- [2 thumbs ups](https://github.com/gatsbyjs/gatsby/issues/3151)",
+    "image": "https://my-badges.github.io/my-badges/thumbs-up.png"
   }
 ]
