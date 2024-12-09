@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/21kb/observatory/commit/df5e8b7bfde02115a82c848a0299c450c529fb25">df5e8b7</a>: chore: push migrations
+- <a href="https://github.com/yeskunall/remy/commit/78033547857a7718c142f8cb232f816038983ba8">7803354</a>: chore: update footnotes
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
