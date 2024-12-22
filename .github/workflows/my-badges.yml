@@ -6,7 +6,7 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    - cron: '0 0 1 * *'
+    - cron: 0 0 1 * *
 
 permissions:
   contents: write
@@ -16,6 +16,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Update badges
-        run: npx update-my-badges ${{github.repository_owner}}
+        run: npx update-my-badges ${{github.repository_owner}} --compact --size=32
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
