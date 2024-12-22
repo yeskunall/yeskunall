@@ -1,12 +1,5 @@
 [
   {
-    "id": "a-commit",
-    "tier": 1,
-    "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/yeskunall/dotfiles/commit/af6231f5b550c523fadcb919ad21c34c7413fefe\"><strong>a</strong>f6231f5b550c523fadcb919ad21c34c7413fefe</a>",
-    "image": "https://my-badges.github.io/my-badges/a-commit.png"
-  },
-  {
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
@@ -59,22 +52,8 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 214 times)\n2. chore: (used 173 times)\n3. feat: (used 154 times)\n4. add (used 116 times)\n5. remove (used 64 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 217 times)\n2. chore: (used 177 times)\n3. feat: (used 155 times)\n4. add (used 117 times)\n5. remove (used 64 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
-  },
-  {
-    "id": "fix-2",
-    "tier": 1,
-    "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/www/commit/2dadf61727d5ee993fd8a0fb1f7296d03fdb3eba\">2dadf61</a>: fix(ci): run only necessary scripts every step\n- <a href=\"https://github.com/yeskunall/www/commit/e19c16187a5f648ae0b98f73b63c3b47dab34472\">e19c161</a>: fix(content): fix `markdownlint` errors",
-    "image": "https://my-badges.github.io/my-badges/fix-2.png"
-  },
-  {
-    "id": "fix-3",
-    "tier": 2,
-    "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/www/commit/f48afec73b884344c1f83f5883e3272f43926387\">f48afec</a>: fix: use `webAnalytics` instead of `analytics` (deprecated)\n- <a href=\"https://github.com/yeskunall/www/commit/2f631adbad9fb9085ec4855b7f1d8bfea0ddb6f7\">2f631ad</a>: fix: headers not being applied in Vercel deployment (#13)\n- <a href=\"https://github.com/yeskunall/www/commit/f8440ec2a34da8ae79ba8d490b098ed373afd901\">f8440ec</a>: fix: headers not being applied in Vercel deployment\n\nCloses: #7",
-    "image": "https://my-badges.github.io/my-badges/fix-3.png"
   },
   {
     "id": "fix-5",
@@ -129,7 +108,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/yeskunall/commit/b9ca9bd3b5f47306f8e594d894688563c23cbf98\">b9ca9bd</a>\n- <a href=\"https://github.com/yeskunall/yeskunall/commit/98645a4c6c29b32d3cacbbc3113d70a30953fa82\">98645a4</a>\n- <a href=\"https://github.com/yeskunall/remy/commit/b0ef16d69797a3e7991ef53004704d80d26c4a24\">b0ef16d</a>\n- <a href=\"https://github.com/yeskunall/remy/commit/5f4eb0ddef012bd0db923e16e979c0a4128557fb\">5f4eb0d</a>\n- <a href=\"https://github.com/yeskunall/remy/commit/c31655bbb7dc9a4ad104fb41189378d66992fea2\">c31655b</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/b31585585bfa422e9df63fc26ef7f1b05d1ab112\">b315855</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/294b2c16708a70195b2ce8c7968da6436bb5a397\">294b2c1</a>\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/ffc2fbe312de907452cc23139bd6ea09882b82f3\">ffc2fbe</a>\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/f49286ac69d30931ab0a7709945bf693e6f734e2\">f49286a</a>\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/86176d8638d462c364e79a2e54779107d65d95f9\">86176d8</a>\n- <a href=\"https://github.com/21kb/linkify-gh-usernames/commit/527bba229fbaeade271f268a309bb17f72340b2a\">527bba2</a>\n- <a href=\"https://github.com/21kb/linkify-gh-usernames/commit/ff5294b8a3135cefde281da2183ec352ec4fbed1\">ff5294b</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
