@@ -4,11 +4,11 @@
 
 My favorite commit message words are:
 
-1. update (used 217 times)
-2. chore: (used 177 times)
-3. feat: (used 155 times)
-4. add (used 117 times)
-5. remove (used 64 times)
+1. update (used 221 times)
+2. chore: (used 185 times)
+3. feat: (used 163 times)
+4. add (used 123 times)
+5. remove (used 65 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

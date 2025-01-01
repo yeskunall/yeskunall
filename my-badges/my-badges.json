@@ -17,7 +17,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/remy/commit/78033547857a7718c142f8cb232f816038983ba8\">7803354</a>: chore: update footnotes",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/config.nvim/commit/9f2aa4bffc8424a5582e0d2ef8747249d247aa90\">9f2aa4b</a>: chore: add `.editorconfig`",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -52,7 +52,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 217 times)\n2. chore: (used 177 times)\n3. feat: (used 155 times)\n4. add (used 117 times)\n5. remove (used 64 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 221 times)\n2. chore: (used 185 times)\n3. feat: (used 163 times)\n4. add (used 123 times)\n5. remove (used 65 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -94,21 +94,21 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/www/commit/ee042522bdc8b4ef3fe95dcbfde6ac439de6c229\">ee04252</a>\n- <a href=\"https://github.com/yeskunall/www/commit/cacc2bacb282fe1ac83bb7fa056f3c412987f5fa\">cacc2ba</a>\n- <a href=\"https://github.com/yeskunall/www/commit/add9b14bbac6a344b1dfe9f3b990da09310a7fd5\">add9b14</a>\n- <a href=\"https://github.com/yeskunall/www/commit/68cae3b885d993a54d8b1c207b67f8131278d477\">68cae3b</a>\n- <a href=\"https://github.com/yeskunall/www/commit/af73532040e3f1d0000713e780ddcdf437fea047\">af73532</a>\n- <a href=\"https://github.com/yeskunall/www/commit/b785d1aa53d97e115c29e8e117c47557887ac30f\">b785d1a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/c80c14b694dc392dc90886d89d24ad5d9c5a5971\">c80c14b</a>\n- <a href=\"https://github.com/yeskunall/config.nvim/commit/10c7942525d8c4eea374dad0ba38f33f67796762\">10c7942</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/49e5baa0e5ee6527504c9ec71852b401c8ab16ce\">49e5baa</a>\n- <a href=\"https://github.com/yeskunall/config.nvim/commit/ca2e18b4c49cafbbcbdbe8f13222b3e491dfd5fc\">ca2e18b</a>\n- <a href=\"https://github.com/yeskunall/config.nvim/commit/9f2aa4bffc8424a5582e0d2ef8747249d247aa90\">9f2aa4b</a>\n- <a href=\"https://github.com/yeskunall/config.nvim/commit/3713fbf3473b54c0636046af0e38ac0261ed8ce6\">3713fbf</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/8a70a7daa97943dbd7376c4f8f399b8f1a14d75a\">8a70a7d</a>\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/0923422135ab7adb9b12c5cfc7aea6df74b1f1a7\">0923422</a>\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/02efc754574b895e4efae74b2bf70956885b0361\">02efc75</a>\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/c53ac5d3aa428a398aae8cb6f269042aa757a6ab\">c53ac5d</a>\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/a883d4b810261b1670b7d6c7005032a6f2b6730e\">a883d4b</a>\n- <a href=\"https://github.com/yeskunall/yeskunall/commit/e4686a911822220ff5f26a033ff52868af65616b\">e4686a9</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/d453d2e6dbb1d1bce0d9c9111d44b0b5b88dbae3\">d453d2e</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/41c6064c0956b79d34dcda43ff8552ef91bffa60\">41c6064</a>\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/8a70a7daa97943dbd7376c4f8f399b8f1a14d75a\">8a70a7d</a>\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/0923422135ab7adb9b12c5cfc7aea6df74b1f1a7\">0923422</a>\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/02efc754574b895e4efae74b2bf70956885b0361\">02efc75</a>\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/c53ac5d3aa428a398aae8cb6f269042aa757a6ab\">c53ac5d</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/294b2c16708a70195b2ce8c7968da6436bb5a397\">294b2c1</a>\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/ffc2fbe312de907452cc23139bd6ea09882b82f3\">ffc2fbe</a>\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/f49286ac69d30931ab0a7709945bf693e6f734e2\">f49286a</a>\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/86176d8638d462c364e79a2e54779107d65d95f9\">86176d8</a>\n- <a href=\"https://github.com/21kb/linkify-gh-usernames/commit/527bba229fbaeade271f268a309bb17f72340b2a\">527bba2</a>\n- <a href=\"https://github.com/21kb/linkify-gh-usernames/commit/ff5294b8a3135cefde281da2183ec352ec4fbed1\">ff5294b</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/8a468f1a18152bd8f8c60c99c98ce8e721298f3c\">8a468f1</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/ea64374b4ee36efbef8e89922fabf376569ac819\">ea64374</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/94202605625d289bc4f49bc875578317af3c97ef\">9420260</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/87b4b3174ad150f5ded6756319ffdaa2502dc750\">87b4b31</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/4cbaf348b2bf50e9b31f899704548a2ea6bf59f9\">4cbaf34</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/d0930da441d1dfaa479487dbc7e5173581380120\">d0930da</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -121,8 +121,8 @@
   {
     "id": "self-star",
     "tier": 0,
-    "desc": "I've starred 2 my own repositories.",
-    "body": "- <a href=\"https://github.com/yeskunall/dotfiles\">yeskunall/dotfiles</a>\n- <a href=\"https://github.com/yeskunall/vscode-theme-deep-rainforest\">yeskunall/vscode-theme-deep-rainforest</a>",
+    "desc": "I've starred 1 my own repositories.",
+    "body": "- <a href=\"https://github.com/yeskunall/dotfiles\">yeskunall/dotfiles</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
   },
   {

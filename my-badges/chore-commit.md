@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/yeskunall/remy/commit/78033547857a7718c142f8cb232f816038983ba8">7803354</a>: chore: update footnotes
+- <a href="https://github.com/yeskunall/config.nvim/commit/9f2aa4bffc8424a5582e0d2ef8747249d247aa90">9f2aa4b</a>: chore: add `.editorconfig`
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

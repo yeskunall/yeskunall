@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/yeskunall/www/commit/ee042522bdc8b4ef3fe95dcbfde6ac439de6c229">ee04252</a>
-- <a href="https://github.com/yeskunall/www/commit/cacc2bacb282fe1ac83bb7fa056f3c412987f5fa">cacc2ba</a>
-- <a href="https://github.com/yeskunall/www/commit/add9b14bbac6a344b1dfe9f3b990da09310a7fd5">add9b14</a>
-- <a href="https://github.com/yeskunall/www/commit/68cae3b885d993a54d8b1c207b67f8131278d477">68cae3b</a>
-- <a href="https://github.com/yeskunall/www/commit/af73532040e3f1d0000713e780ddcdf437fea047">af73532</a>
-- <a href="https://github.com/yeskunall/www/commit/b785d1aa53d97e115c29e8e117c47557887ac30f">b785d1a</a>
+- <a href="https://github.com/yeskunall/dotfiles/commit/c80c14b694dc392dc90886d89d24ad5d9c5a5971">c80c14b</a>
+- <a href="https://github.com/yeskunall/config.nvim/commit/10c7942525d8c4eea374dad0ba38f33f67796762">10c7942</a>
+- <a href="https://github.com/yeskunall/dotfiles/commit/49e5baa0e5ee6527504c9ec71852b401c8ab16ce">49e5baa</a>
+- <a href="https://github.com/yeskunall/config.nvim/commit/ca2e18b4c49cafbbcbdbe8f13222b3e491dfd5fc">ca2e18b</a>
+- <a href="https://github.com/yeskunall/config.nvim/commit/9f2aa4bffc8424a5582e0d2ef8747249d247aa90">9f2aa4b</a>
+- <a href="https://github.com/yeskunall/config.nvim/commit/3713fbf3473b54c0636046af0e38ac0261ed8ce6">3713fbf</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
