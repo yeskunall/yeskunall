@@ -2,7 +2,7 @@
 <strong>I got more than 10 thumbs up.</strong>
 <br><br>
 
-* <a href="https://github.com/pulumi/pulumi/issues/11751">29 👍</a>
+* <a href="https://github.com/pulumi/pulumi/issues/11751">30 👍</a>
 * <a href="https://github.com/vercel/next.js/issues/35623#issuecomment-1079821404">15 👍</a>
 
 
