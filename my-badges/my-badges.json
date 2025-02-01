@@ -10,7 +10,7 @@
     "id": "bad-words",
     "tier": 0,
     "desc": "I used a word \"fuck\" in my commit message.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/21kb/linkify-gh-usernames/commit/fb7d873bd446fb7367f29b927bafb668ca27c13b\">fb7d873</a>: v2.0.0 (#1)\n\n* chore: meta tweaks\r\n\r\n* feat: prepare v2\r\n\r\n* chore: meta tweaks\r\n\r\n* fix: matrices always fuck me up\r\n\r\n* fix: use `npm` instead\r\n\r\n* fix: drop support for Node 16",
+    "body": "Commits:\n\n- <a href=\"https://github.com/tau-engineering/linkify-gh-usernames/commit/fb7d873bd446fb7367f29b927bafb668ca27c13b\">fb7d873</a>: v2.0.0 (#1)\n\n* chore: meta tweaks\r\n\r\n* feat: prepare v2\r\n\r\n* chore: meta tweaks\r\n\r\n* fix: matrices always fuck me up\r\n\r\n* fix: use `npm` instead\r\n\r\n* fix: drop support for Node 16",
     "image": "https://my-badges.github.io/my-badges/bad-words.png"
   },
   {
@@ -52,7 +52,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 221 times)\n2. chore: (used 185 times)\n3. feat: (used 163 times)\n4. add (used 123 times)\n5. remove (used 65 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 224 times)\n2. add (used 129 times)\n3. remove (used 65 times)\n4. use (used 63 times)\n5. move (used 43 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -73,14 +73,14 @@
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/www/commit/3fc2afcd399d1e6731da342b5c4f86b653e3e49b\">3fc2afc</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/42a8ba6a7838b395ab154db07231c8ac2748ed3f\">42a8ba6</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/sindresorhus/node-env-webpack-plugin/issues/1\">#1</a>: Support for additional environments\n- <a href=\"https://github.com/enquirer/enquirer/issues/32\">#32</a>: How to use the given prompts?\n- <a href=\"https://github.com/florisboard/florisboard/issues/1022\">#1022</a>: Clear URLs when copying/sharing a link\n- <a href=\"https://github.com/weiran-zsd/dts-cli/issues/181\">#181</a>: Auto-installation step should respect current package manager\n- <a href=\"https://github.com/supabase/supabase/issues/18269\">#18269</a>: `cmdk` key bindings clash with Supabase Studio’s built-in GraphiQL IDE\n\n And many more...",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/sindresorhus/node-env-webpack-plugin/issues/1\">#1</a>: Support for additional environments\n- <a href=\"https://github.com/enquirer/enquirer/issues/32\">#32</a>: How to use the given prompts?\n- <a href=\"https://github.com/florisboard/florisboard/issues/1022\">#1022</a>: Clear URLs when copying/sharing a link\n- <a href=\"https://github.com/weiran-zsd/dts-cli/issues/181\">#181</a>: Auto-installation step should respect current package manager\n- <a href=\"https://github.com/Thinkmill/keystatic/issues/1141\">#1141</a>: Keystatic (Cloud) does not indicate it is not setup correctly\n\n And many more...",
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
@@ -94,21 +94,21 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/c80c14b694dc392dc90886d89d24ad5d9c5a5971\">c80c14b</a>\n- <a href=\"https://github.com/yeskunall/config.nvim/commit/10c7942525d8c4eea374dad0ba38f33f67796762\">10c7942</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/49e5baa0e5ee6527504c9ec71852b401c8ab16ce\">49e5baa</a>\n- <a href=\"https://github.com/yeskunall/config.nvim/commit/ca2e18b4c49cafbbcbdbe8f13222b3e491dfd5fc\">ca2e18b</a>\n- <a href=\"https://github.com/yeskunall/config.nvim/commit/9f2aa4bffc8424a5582e0d2ef8747249d247aa90\">9f2aa4b</a>\n- <a href=\"https://github.com/yeskunall/config.nvim/commit/3713fbf3473b54c0636046af0e38ac0261ed8ce6\">3713fbf</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/f1b380fce894106f637334a373665aaeba1f0084\">f1b380f</a>\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/2dacdcaf2ac39b5df6f1560221b23d1beb3db9e2\">2dacdca</a>\n- <a href=\"https://github.com/yeskunall/www/commit/56fddec8f6ffbf3b37024806c37915f93968dfa7\">56fddec</a>\n- <a href=\"https://github.com/yeskunall/www/commit/ed2bd374edfb01bb63690abb6944b963590063d2\">ed2bd37</a>\n- <a href=\"https://github.com/yeskunall/www/commit/15913caab348dd06e717db18ffa15d42812ce2f3\">15913ca</a>\n- <a href=\"https://github.com/yeskunall/www/commit/6bab8099a7eb5f0c4740f6288102a79cc5647130\">6bab809</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/d453d2e6dbb1d1bce0d9c9111d44b0b5b88dbae3\">d453d2e</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/41c6064c0956b79d34dcda43ff8552ef91bffa60\">41c6064</a>\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/8a70a7daa97943dbd7376c4f8f399b8f1a14d75a\">8a70a7d</a>\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/0923422135ab7adb9b12c5cfc7aea6df74b1f1a7\">0923422</a>\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/02efc754574b895e4efae74b2bf70956885b0361\">02efc75</a>\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/c53ac5d3aa428a398aae8cb6f269042aa757a6ab\">c53ac5d</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/b185be03e5086c136fe6021b1f386360728e58d1\">b185be0</a>\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/23144225993c785ca2c7f84df41951ce4f9917ad\">2314422</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/ced5d7bf9d6da041f6b60a8080247d73f2fbd32f\">ced5d7b</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/e585302c84ccd49809a4cce370b44d2cde9154d9\">e585302</a>\n- <a href=\"https://github.com/yeskunall/www/commit/955ba4a6159c409a4ffa949b2c824ebd02717a50\">955ba4a</a>\n- <a href=\"https://github.com/yeskunall/www/commit/4ad7023d35705c91dc749f83e8360920f6435a0d\">4ad7023</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/8a468f1a18152bd8f8c60c99c98ce8e721298f3c\">8a468f1</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/ea64374b4ee36efbef8e89922fabf376569ac819\">ea64374</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/94202605625d289bc4f49bc875578317af3c97ef\">9420260</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/87b4b3174ad150f5ded6756319ffdaa2502dc750\">87b4b31</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/4cbaf348b2bf50e9b31f899704548a2ea6bf59f9\">4cbaf34</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/d0930da441d1dfaa479487dbc7e5173581380120\">d0930da</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/c80c14b694dc392dc90886d89d24ad5d9c5a5971\">c80c14b</a>\n- <a href=\"https://github.com/yeskunall/config.nvim/commit/10c7942525d8c4eea374dad0ba38f33f67796762\">10c7942</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/d453d2e6dbb1d1bce0d9c9111d44b0b5b88dbae3\">d453d2e</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/41c6064c0956b79d34dcda43ff8552ef91bffa60\">41c6064</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/49e5baa0e5ee6527504c9ec71852b401c8ab16ce\">49e5baa</a>\n- <a href=\"https://github.com/yeskunall/config.nvim/commit/ca2e18b4c49cafbbcbdbe8f13222b3e491dfd5fc\">ca2e18b</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -131,5 +131,12 @@
     "desc": "I got more than 10 thumbs up.",
     "body": "* <a href=\"https://github.com/pulumi/pulumi/issues/11751\">29 👍</a>\n* <a href=\"https://github.com/vercel/next.js/issues/35623#issuecomment-1079821404\">15 👍</a>",
     "image": "https://my-badges.github.io/my-badges/thumbs-up-10.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/www/commit/55a9357e5e64471f215b1f30153206cfe4171422\">55a9357</a>\n- <a href=\"https://github.com/yeskunall/www/commit/932c0df59ff946b8d3eaf49c6e8e8b1f58727c4d\">932c0df</a>\n- <a href=\"https://github.com/yeskunall/www/commit/cdcee647c9ad6851906380aecc3f11d45003febe\">cdcee64</a>\n- <a href=\"https://github.com/tau-engineering/observatory/commit/46cf95c3ec474c62c1d780c04df1429730964914\">46cf95c</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   }
 ]

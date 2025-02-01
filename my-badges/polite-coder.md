@@ -8,7 +8,7 @@ I use words like "thanks" and "please" in my issues:
 - <a href="https://github.com/enquirer/enquirer/issues/32">#32</a>: How to use the given prompts?
 - <a href="https://github.com/florisboard/florisboard/issues/1022">#1022</a>: Clear URLs when copying/sharing a link
 - <a href="https://github.com/weiran-zsd/dts-cli/issues/181">#181</a>: Auto-installation step should respect current package manager
-- <a href="https://github.com/supabase/supabase/issues/18269">#18269</a>: `cmdk` key bindings clash with Supabase Studio’s built-in GraphiQL IDE
+- <a href="https://github.com/Thinkmill/keystatic/issues/1141">#1141</a>: Keystatic (Cloud) does not indicate it is not setup correctly
 
  And many more...
 

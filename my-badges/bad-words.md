@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/21kb/linkify-gh-usernames/commit/fb7d873bd446fb7367f29b927bafb668ca27c13b">fb7d873</a>: v2.0.0 (#1)
+- <a href="https://github.com/tau-engineering/linkify-gh-usernames/commit/fb7d873bd446fb7367f29b927bafb668ca27c13b">fb7d873</a>: v2.0.0 (#1)
 
 * chore: meta tweaks
 
