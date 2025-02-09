@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/yeskunall/config.nvim/commit/9f2aa4bffc8424a5582e0d2ef8747249d247aa90">9f2aa4b</a>: chore: add `.editorconfig`
+- <a href="https://github.com/yeskunall/config.nvim/commit/f059dc9af3d14f2ce9cb861c0f81bd22bfbc14ac">f059dc9</a>: chore: reorder
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
