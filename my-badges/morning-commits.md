@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/yeskunall/yeskunall/commit/b1bbadee076a54968a853088c41dbb22a0b49661">b1bbade</a>
-- <a href="https://github.com/yeskunall/astro-umami/commit/b185be03e5086c136fe6021b1f386360728e58d1">b185be0</a>
-- <a href="https://github.com/yeskunall/astro-umami/commit/23144225993c785ca2c7f84df41951ce4f9917ad">2314422</a>
-- <a href="https://github.com/yeskunall/dotfiles/commit/ced5d7bf9d6da041f6b60a8080247d73f2fbd32f">ced5d7b</a>
-- <a href="https://github.com/yeskunall/dotfiles/commit/e585302c84ccd49809a4cce370b44d2cde9154d9">e585302</a>
-- <a href="https://github.com/yeskunall/www/commit/955ba4a6159c409a4ffa949b2c824ebd02717a50">955ba4a</a>
+- <a href="https://github.com/yeskunall/astro-umami/commit/d292cc3cafdc88222211a7bdd6a8a40b898ec255">d292cc3</a>
+- <a href="https://github.com/yeskunall/dotfiles/commit/dd9dca5bc9a6e67bc167c13a096d5630be361c71">dd9dca5</a>
+- <a href="https://github.com/yeskunall/dotfiles/commit/d0ff8a5b23df3df654f91d728401fa188e4b963e">d0ff8a5</a>
+- <a href="https://github.com/yeskunall/dotfiles/commit/9e00b2be22e78fd13b70ea0d90b821beea6cea3a">9e00b2b</a>
+- <a href="https://github.com/yeskunall/dotfiles/commit/d453d2e6dbb1d1bce0d9c9111d44b0b5b88dbae3">d453d2e</a>
+- <a href="https://github.com/yeskunall/dotfiles/commit/41c6064c0956b79d34dcda43ff8552ef91bffa60">41c6064</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

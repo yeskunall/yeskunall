@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/yeskunall/astro-umami/commit/f1b380fce894106f637334a373665aaeba1f0084">f1b380f</a>
-- <a href="https://github.com/yeskunall/astro-umami/commit/2dacdcaf2ac39b5df6f1560221b23d1beb3db9e2">2dacdca</a>
-- <a href="https://github.com/yeskunall/www/commit/56fddec8f6ffbf3b37024806c37915f93968dfa7">56fddec</a>
-- <a href="https://github.com/yeskunall/www/commit/ed2bd374edfb01bb63690abb6944b963590063d2">ed2bd37</a>
-- <a href="https://github.com/yeskunall/www/commit/15913caab348dd06e717db18ffa15d42812ce2f3">15913ca</a>
-- <a href="https://github.com/yeskunall/www/commit/6bab8099a7eb5f0c4740f6288102a79cc5647130">6bab809</a>
+- <a href="https://github.com/yeskunall/dotfiles/commit/c80c14b694dc392dc90886d89d24ad5d9c5a5971">c80c14b</a>
+- <a href="https://github.com/yeskunall/config.nvim/commit/10c7942525d8c4eea374dad0ba38f33f67796762">10c7942</a>
+- <a href="https://github.com/yeskunall/dotfiles/commit/49e5baa0e5ee6527504c9ec71852b401c8ab16ce">49e5baa</a>
+- <a href="https://github.com/yeskunall/config.nvim/commit/ca2e18b4c49cafbbcbdbe8f13222b3e491dfd5fc">ca2e18b</a>
+- <a href="https://github.com/yeskunall/config.nvim/commit/9f2aa4bffc8424a5582e0d2ef8747249d247aa90">9f2aa4b</a>
+- <a href="https://github.com/yeskunall/config.nvim/commit/3713fbf3473b54c0636046af0e38ac0261ed8ce6">3713fbf</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

@@ -52,7 +52,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 224 times)\n2. add (used 130 times)\n3. use (used 65 times)\n4. remove (used 65 times)\n5. move (used 43 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 226 times)\n2. add (used 132 times)\n3. use (used 67 times)\n4. remove (used 65 times)\n5. move (used 43 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -94,21 +94,21 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/f1b380fce894106f637334a373665aaeba1f0084\">f1b380f</a>\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/2dacdcaf2ac39b5df6f1560221b23d1beb3db9e2\">2dacdca</a>\n- <a href=\"https://github.com/yeskunall/www/commit/56fddec8f6ffbf3b37024806c37915f93968dfa7\">56fddec</a>\n- <a href=\"https://github.com/yeskunall/www/commit/ed2bd374edfb01bb63690abb6944b963590063d2\">ed2bd37</a>\n- <a href=\"https://github.com/yeskunall/www/commit/15913caab348dd06e717db18ffa15d42812ce2f3\">15913ca</a>\n- <a href=\"https://github.com/yeskunall/www/commit/6bab8099a7eb5f0c4740f6288102a79cc5647130\">6bab809</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/c80c14b694dc392dc90886d89d24ad5d9c5a5971\">c80c14b</a>\n- <a href=\"https://github.com/yeskunall/config.nvim/commit/10c7942525d8c4eea374dad0ba38f33f67796762\">10c7942</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/49e5baa0e5ee6527504c9ec71852b401c8ab16ce\">49e5baa</a>\n- <a href=\"https://github.com/yeskunall/config.nvim/commit/ca2e18b4c49cafbbcbdbe8f13222b3e491dfd5fc\">ca2e18b</a>\n- <a href=\"https://github.com/yeskunall/config.nvim/commit/9f2aa4bffc8424a5582e0d2ef8747249d247aa90\">9f2aa4b</a>\n- <a href=\"https://github.com/yeskunall/config.nvim/commit/3713fbf3473b54c0636046af0e38ac0261ed8ce6\">3713fbf</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/yeskunall/commit/b1bbadee076a54968a853088c41dbb22a0b49661\">b1bbade</a>\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/b185be03e5086c136fe6021b1f386360728e58d1\">b185be0</a>\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/23144225993c785ca2c7f84df41951ce4f9917ad\">2314422</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/ced5d7bf9d6da041f6b60a8080247d73f2fbd32f\">ced5d7b</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/e585302c84ccd49809a4cce370b44d2cde9154d9\">e585302</a>\n- <a href=\"https://github.com/yeskunall/www/commit/955ba4a6159c409a4ffa949b2c824ebd02717a50\">955ba4a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/d292cc3cafdc88222211a7bdd6a8a40b898ec255\">d292cc3</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/dd9dca5bc9a6e67bc167c13a096d5630be361c71\">dd9dca5</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/d0ff8a5b23df3df654f91d728401fa188e4b963e\">d0ff8a5</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/9e00b2be22e78fd13b70ea0d90b821beea6cea3a\">9e00b2b</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/d453d2e6dbb1d1bce0d9c9111d44b0b5b88dbae3\">d453d2e</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/41c6064c0956b79d34dcda43ff8552ef91bffa60\">41c6064</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/c80c14b694dc392dc90886d89d24ad5d9c5a5971\">c80c14b</a>\n- <a href=\"https://github.com/yeskunall/config.nvim/commit/10c7942525d8c4eea374dad0ba38f33f67796762\">10c7942</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/d453d2e6dbb1d1bce0d9c9111d44b0b5b88dbae3\">d453d2e</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/41c6064c0956b79d34dcda43ff8552ef91bffa60\">41c6064</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/49e5baa0e5ee6527504c9ec71852b401c8ab16ce\">49e5baa</a>\n- <a href=\"https://github.com/yeskunall/config.nvim/commit/ca2e18b4c49cafbbcbdbe8f13222b3e491dfd5fc\">ca2e18b</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/config.nvim/commit/05f4c6ec56247ff8027e3fe3bf023212f0a7fa68\">05f4c6e</a>\n- <a href=\"https://github.com/yeskunall/config.nvim/commit/0c6703f9301b78ac82f2ea03d8f915ae411ef89a\">0c6703f</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/8a468f1a18152bd8f8c60c99c98ce8e721298f3c\">8a468f1</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/ea64374b4ee36efbef8e89922fabf376569ac819\">ea64374</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/94202605625d289bc4f49bc875578317af3c97ef\">9420260</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/87b4b3174ad150f5ded6756319ffdaa2502dc750\">87b4b31</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -131,12 +131,5 @@
     "desc": "I got more than 10 thumbs up.",
     "body": "* <a href=\"https://github.com/pulumi/pulumi/issues/11751\">30 👍</a>\n* <a href=\"https://github.com/vercel/next.js/issues/35623#issuecomment-1079821404\">15 👍</a>",
     "image": "https://my-badges.github.io/my-badges/thumbs-up-10.png"
-  },
-  {
-    "id": "midnight-commits",
-    "tier": 0,
-    "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/www/commit/55a9357e5e64471f215b1f30153206cfe4171422\">55a9357</a>\n- <a href=\"https://github.com/yeskunall/www/commit/932c0df59ff946b8d3eaf49c6e8e8b1f58727c4d\">932c0df</a>\n- <a href=\"https://github.com/yeskunall/www/commit/cdcee647c9ad6851906380aecc3f11d45003febe\">cdcee64</a>\n- <a href=\"https://github.com/tau-engineering/observatory/commit/46cf95c3ec474c62c1d780c04df1429730964914\">46cf95c</a>",
-    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   }
 ]
