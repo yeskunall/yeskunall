@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/yeskunall/config.nvim/commit/f059dc9af3d14f2ce9cb861c0f81bd22bfbc14ac">f059dc9</a>: chore: reorder
+- <a href="https://github.com/yeskunall/canada-seasons-data/commit/9b2f6cdea57eef7ccf063f57c5c9fc9adfb357e2">9b2f6cd</a>: chore: meta tweaks
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
