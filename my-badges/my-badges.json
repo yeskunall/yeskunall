@@ -52,7 +52,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 230 times)\n2. add (used 133 times)\n3. use (used 68 times)\n4. remove (used 65 times)\n5. move (used 43 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 233 times)\n2. add (used 134 times)\n3. use (used 69 times)\n4. remove (used 65 times)\n5. move (used 43 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -101,7 +101,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/66e0403a3403cd46a52029d16d5ba2754fcb41dd\">66e0403</a>\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/d292cc3cafdc88222211a7bdd6a8a40b898ec255\">d292cc3</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/dd9dca5bc9a6e67bc167c13a096d5630be361c71\">dd9dca5</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/d0ff8a5b23df3df654f91d728401fa188e4b963e\">d0ff8a5</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/9e00b2be22e78fd13b70ea0d90b821beea6cea3a\">9e00b2b</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/d453d2e6dbb1d1bce0d9c9111d44b0b5b88dbae3\">d453d2e</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/9b84c3826cc113df6a1641e5f9c5f38185e9b047\">9b84c38</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/66e0403a3403cd46a52029d16d5ba2754fcb41dd\">66e0403</a>\n- <a href=\"https://github.com/yeskunall/astro-umami/commit/d292cc3cafdc88222211a7bdd6a8a40b898ec255\">d292cc3</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/dd9dca5bc9a6e67bc167c13a096d5630be361c71\">dd9dca5</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/d0ff8a5b23df3df654f91d728401fa188e4b963e\">d0ff8a5</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/9e00b2be22e78fd13b70ea0d90b821beea6cea3a\">9e00b2b</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
