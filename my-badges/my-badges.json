@@ -52,7 +52,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 233 times)\n2. add (used 134 times)\n3. use (used 69 times)\n4. remove (used 65 times)\n5. move (used 43 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 236 times)\n2. add (used 137 times)\n3. use (used 69 times)\n4. remove (used 65 times)\n5. move (used 43 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -108,7 +108,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/config.nvim/commit/05f4c6ec56247ff8027e3fe3bf023212f0a7fa68\">05f4c6e</a>\n- <a href=\"https://github.com/yeskunall/config.nvim/commit/0c6703f9301b78ac82f2ea03d8f915ae411ef89a\">0c6703f</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/8a468f1a18152bd8f8c60c99c98ce8e721298f3c\">8a468f1</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/ea64374b4ee36efbef8e89922fabf376569ac819\">ea64374</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/94202605625d289bc4f49bc875578317af3c97ef\">9420260</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/87b4b3174ad150f5ded6756319ffdaa2502dc750\">87b4b31</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/yeskunall/lume_umami/commit/f97dfe04dcc8539c029d1272f5427219a633f710\">f97dfe0</a>\n- <a href=\"https://github.com/yeskunall/config.nvim/commit/05f4c6ec56247ff8027e3fe3bf023212f0a7fa68\">05f4c6e</a>\n- <a href=\"https://github.com/yeskunall/config.nvim/commit/0c6703f9301b78ac82f2ea03d8f915ae411ef89a\">0c6703f</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/8a468f1a18152bd8f8c60c99c98ce8e721298f3c\">8a468f1</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/ea64374b4ee36efbef8e89922fabf376569ac819\">ea64374</a>\n- <a href=\"https://github.com/yeskunall/dotfiles/commit/94202605625d289bc4f49bc875578317af3c97ef\">9420260</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
